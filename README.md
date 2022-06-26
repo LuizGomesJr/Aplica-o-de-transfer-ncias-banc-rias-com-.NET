@@ -1,2 +1,2 @@
-# Aplica-o-de-transfer-ncias-banc-rias-com-.NET
+# Aplicacao de trasnferencia bancaria com.NET
 Criação simples de um aplicação de sistema bancário.
